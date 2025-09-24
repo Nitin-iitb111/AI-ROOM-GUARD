@@ -24,3 +24,5 @@ It recognizes trusted individuals, warns intruders with escalating dialogue, and
 - **Utilities:** Pygame / playsound for audio, Streamlit/Gradio for optional UI
 
 ## 📂 Project Structure
+--
+## Authors
